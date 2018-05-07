@@ -1,5 +1,7 @@
 # 整合spring+mybatis
 
+> change 1
+
 > 使用前，需执行提供的sql脚本
 > 更改jdbc.properties文件
 
